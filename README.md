@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moonsub-kim&count_private=true&theme=radical&show_icons=true)
+[LinkedIn](https://www.linkedin.com/in/%EB%AC%B8%EC%84%AD-%EA%B9%80-b5242912b/)
 
 <!--
 **moonsub-kim/moonsub-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
